@@ -37,7 +37,7 @@
 
 <p float="left">
   <img src="credlogix-login.png" width="300"/>
-  <img src="credlogix-register.png" width="600"/>
+  <img src="credlogix-registration-screen.png" width="300"/>
   <img src="credlogix.account.png" width="300"/>
 </p>
 
