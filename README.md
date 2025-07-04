@@ -33,6 +33,14 @@
 - Java, Dart, Maven, Hibernate (JPA)
 
 ---
+## 🖼️ Demo
+
+<p float="left">
+  <img src="demo/credlogix-login.png" width="300"/>
+  <img src="demo/credlogix-register.png" width="500"/>
+  <img src="demo/credlogix-account.png" width="300"/>
+</p>
+
 
 ## 🚀 How to Run the Project
 
