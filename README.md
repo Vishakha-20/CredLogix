@@ -36,9 +36,9 @@
 ## 🖼️ Demo
 
 <p float="left">
-  <img src="[https://github.com/Vishakha-20/CredLogix/blob/main/credlogix-login.png" width="300"/>
-  <img src="demo/credlogix-register.png" width="500"/>
-  <img src="demo/credlogix-account.png" width="300"/>
+  <img src="credlogix-login.png" width="300"/>
+  <img src="credlogix-register.png" width="500"/>
+  <img src="credlogix-account.png" width="300"/>
 </p>
 
 
