@@ -1,4 +1,4 @@
-package io.mahesh.api;
+package io.vishakha.api;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
